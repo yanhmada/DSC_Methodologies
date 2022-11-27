@@ -1,10 +1,9 @@
 # Intro to Data Science Methodologies
 ## _SQL Final Project_
 Master in Data Science - University of Sonora
-<img
-  src="https://github.com/yanhmada/Proyectodatoscov/imgbin-universidad-de-sonora-logo-university-licentiate-design-mago-de-oz-k3TZthzyd9QNGgLqiGtUSQqAs.jpg"
-  alt="University of Sonora"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
+
+![University of Sonora]("https://github.com/yanhmada/Proyectodatoscov/imgbin-universidad-de-sonora-logo-university-licentiate-design-mago-de-oz-k3TZthzyd9QNGgLqiGtUSQqAs.jpg")
+
 The current repository includes the related files for the final project of Intro to Data Science Methodologies. For this project we use csv files obtained from Cenace about historical energy requirements and Meteomaticas for weather forecast variables.
 
 Project content:
